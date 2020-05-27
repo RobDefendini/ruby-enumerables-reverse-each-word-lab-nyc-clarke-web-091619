@@ -17,4 +17,4 @@ end
 test_array.join("")
 end
 
-reverse_each_word("I think this will work...")
+reverse_each_word("Hello there, and how are you?")
